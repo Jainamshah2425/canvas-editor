@@ -129,10 +129,4 @@ The app will start at `http://localhost:5173`
 2. Ensure you have a valid canvasId in the URL
 3. Try refreshing the page
 
-## 📝 License
 
-This project is open source and available for educational purposes.
-
----
-
-**Happy Creating! 🎨✨**
