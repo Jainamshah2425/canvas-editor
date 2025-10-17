@@ -90,8 +90,6 @@ VITE_SUPABASE_ANON_KEY=your_supabase_anon_key
 
 > ⚠️ **Important**: Never commit your `.env` file to version control!
 
-> 📖 **Detailed Setup Guide**: See [SUPABASE_SETUP.md](SUPABASE_SETUP.md) for step-by-step instructions with screenshots.
-
 ### 4. Run the Development Server
 
 ```bash
