@@ -115,16 +115,4 @@ The app will start at `http://localhost:5173`
 - **Delete**: Select an object and press Delete key or click Delete button
 - **Save**: Click Save Canvas button to persist your work to Supabase
 
-## 🐛 Troubleshooting
-
-### Supabase Connection Issues
-1. Check that your `.env` file has the correct Supabase credentials
-2. Ensure the `canvases` table exists in your Supabase project
-3. Verify Row Level Security policies are configured
-
-### Canvas Not Loading
-1. Check browser console for errors (F12)
-2. Ensure you have a valid canvasId in the URL
-3. Try refreshing the page
-
-
+#
